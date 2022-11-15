@@ -4,7 +4,7 @@
 #
 Name     : metee
 Version  : 3.1.4
-Release  : 2
+Release  : 3
 URL      : https://github.com/intel/metee/archive/3.1.4/metee-3.1.4.tar.gz
 Source0  : https://github.com/intel/metee/archive/3.1.4/metee-3.1.4.tar.gz
 Summary  : No detailed summary available
